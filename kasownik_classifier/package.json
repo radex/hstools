@@ -1,0 +1,14 @@
+{
+  "name": "kasownik_clasifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rambdax": "^7.2.0"
+  }
+}

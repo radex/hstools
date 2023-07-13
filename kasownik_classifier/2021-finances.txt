@@ -1,0 +1,59 @@
+Finanse w 2021, wszystko podane w przeliczeniu na miesiąc
+
+Koszty stałe:
+- czynsz, woda, prąd, ogrzewanie: -7095 PLN
+- bgp.wtf (nitronet, epix, ripe): -1201 PLN
+- księgowość: -984 PLN
+= 9280/ms
+
+Przychody główne:
+- składki członkowskie: 9645 PLN
+- przychody bgp.wtf: 1002 PLN
+= 10647/ms
+
+Pozostałe przychody:
+- granty: 1667
+- darowizny: 1335
+- darowizny celowe: 611
+= 3613/ms
+
+Pozostałe koszty:
+- wydatki związane z grantmi: 2304
+- prawnicy: 210
+- zakupy (budowlane): 181
+- zakupy (materiały): 317
+- zakupy (pozostałe): 955
+- zakupy (zwroty): 285
+- wydatki nieskategoryzowane: 660
+- opłaty bankowe: 11
+= 4923/ms
+
+balance: +57/ms
+
+————————————————————————
+
+czynsz:
+
+2017: 5119/mo
+2018: 5394/mo
+2019: 5458/mo
+2020: 6457/mo
+2021: 7094/mo  +38% vs 2017
+
+————————————————————————
+
+składki członkowskie:
+
+2017: 6987/mo
+2018: 8227/mo
+2019: 7730/mo
+2020: 8905/mo
+2021: 9644/mo  +38% vs 2017
+
+————————————————————————
+
+przychody bgp.wtf:
+
+2019: 507/mo
+2020: 361/mo
+2021: 1002/mo
